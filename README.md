@@ -1,2 +1,2 @@
-# Interactive_English_Dictionary_SQL
-An interactive dictionary using MySQL from a Udemy Python Megaproject course
+# Interactive_English_Dictionary
+An interactive dictionary from a Udemy Python Megaproject course
